@@ -36,7 +36,7 @@ The notes turn this repo into both a **project** and a **learning log** — show
 
 ---
 
-## 💡 Next Steps  
+## 💡 Time Permitting, I would
 - Experiment with memory types (short-term vs. long-term)  
 - Add external tools (search, file loaders, APIs)  
 - Package as a microservice or chatbot  
@@ -47,3 +47,4 @@ The notes turn this repo into both a **project** and a **learning log** — show
 ## 🙌🏽 Acknowledgments  
 - [LangChain Documentation](https://docs.langchain.com/)  
 - [YouTube tutorial](https://www.youtube.com/watch?v=cUC-hyjpNxk)  
+
